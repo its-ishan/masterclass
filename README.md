@@ -46,11 +46,12 @@ masterclass/
 ├── setup_lab_env.sh
 ├── setup_lab_env.ps1
 ├── README.md
-├── notebooks/
-│   └── lab1_statistics.ipynb
-├── data/
-│   └── sample_data.csv
-└── .lab_env/ (created automatically)
+├── module1/
+│   └── lab1
+    │   └── lab1.ipynb
+│   └──data/
+    │   └── weather.csv
+
 ```
 
 ---
